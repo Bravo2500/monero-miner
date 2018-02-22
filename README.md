@@ -37,4 +37,8 @@
 -----------------
 Note: After 30 minutes the heroku instance will go to sleep so be sure to sign up for another free service (https://uptimerobot.com/) which can ping your url every 5 minutes to make sure it stays up.
 
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
+
 # HAPPY MINING! 
